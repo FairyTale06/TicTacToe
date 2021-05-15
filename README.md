@@ -1,2 +1,5 @@
 # TicTacToe
-An TicTacToe for Android device.
+A TicTacToe game for Android device **Made With Android Studio**.
+
+Programming Language Used: Java
+
